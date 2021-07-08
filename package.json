@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Luiskr1993/SAPractica1_DIC2020.git"
+    "url": "git+https://github.com/MiguelTrianaCastaneda/MaestriaModulo8.git"
   },
   "keywords": [],
-  "author": "Luis Carlos Valiente",
+  "author": "Miguel Triana",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Luiskr1993/SAPractica1_DIC2020/issues"
+    "url": "https://github.com/MiguelTrianaCastaneda/MaestriaModulo8/issues"
   },
-  "homepage": "https://github.com/Luiskr1993/SAPractica1_DIC2020#readme",
+  "homepage": "https://github.com/MiguelTrianaCastaneda/MaestriaModulo8#readme",
   "dependencies": {
     "babel-install": "^2.1.0",
     "ejs": "^3.1.5",
