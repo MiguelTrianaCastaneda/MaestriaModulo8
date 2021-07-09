@@ -31,4 +31,4 @@ Git - Para el versionamiento del código.
 Usé Github para el versionamiento del código de la aplicación web. 
 
 ## Autores ✒️
-Luis Carlos Valiente Salazar - Analista Programador.
+Miguel Triana
